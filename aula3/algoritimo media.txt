@@ -1,0 +1,41 @@
+Algorítmo
+
+Cálculo da média de 2 notas:
+
+          nota 1 + nota 2
+média =  _________________
+                 2
+________________________________________
+Variáveis: 3
+media,nota1,nota2 (não inteiros)
+
+Entrada:
+nota1 e nota2
+
+Processamento:
+media = (nota1 + nota2) / 2
+
+Saída:
+media
+
+Dica: Ferramenta para desenvolvimento de algorítmo:
+visualg
+
+Teste de mesa:
+
+nota1: 7
+nota2: 5
+
+media = (7+5)/2
+media = 12/2
+media = 6
+
+___________________________________________________
+Atividade:
+Desenvolver um aplicativo usando a linguagem C (console  MS-DOS) para calcular o IMC.
+
+
+
+
+
+

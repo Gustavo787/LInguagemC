@@ -1,0 +1,42 @@
+Estruturas de controle:
+
+- condicionais
+- laços (repetições)
+
+Condicionais:
+
+Condição: (verdadeira ou falsa)
+
+
+if (condição){
+  //condição verdadeira
+}
+________________________________
+if (condição){
+  //condição verdadeira
+} else {
+  //condição falsa
+}
+
+Observação: Uma condição não pode ser verdadeira e falsa ao mesmo tempo.
+
+_________________________________
+if (condição 1){
+  //condição1 verdadeira
+} else if (condição 2) {
+  //condição2 verdadeira
+} else if (condição 3) {
+  //condição3 verdadeira
+} else {
+  //nenhuma das condições anteriores verdadeiras
+}
+
+Obs: Nesta estrutura o else final não é obrigatório
+
+
+
+
+
+
+
+
